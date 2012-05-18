@@ -5,7 +5,7 @@ Version 1.0
 
 ## Introduction
 
-Unfortunately even in 2012 there is no elegant CSS solution to keeping columns the same height. Display table is buggy, not very cross-browser friendly and generally a PITA. This plugin is provided to keep columns the same height, and responsively fluidly when the browser window is resized.
+Unfortunately even in 2012 there is no elegant CSS solution to keep columns the same height. Display table is buggy, not very cross-browser friendly and generally a PITA. This plugin provides the ability to keep columns the same height, and responsively fluidly when the browser window is resized.
 
 ## Usage
   
