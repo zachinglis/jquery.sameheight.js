@@ -12,7 +12,6 @@ Unfortunately even in 2012 there is no elegant CSS solution to keeping columns t
     // Make all the article's belonging to panel have the same height
     $("#panels article").sameHeight();  
 
-
     // Make all the article's belonging to panel have the same height, but not when it's in mobile view (if for example they're all stacked vertically)
     $("#panels article").sameHeight({
       'window-min-width' : 768
