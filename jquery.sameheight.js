@@ -50,5 +50,5 @@
     })
 
     return this;
-	}
+  }
 })(jQuery);
