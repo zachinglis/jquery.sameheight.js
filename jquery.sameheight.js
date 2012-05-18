@@ -33,9 +33,9 @@
     this.height(tallest);    
   }
   
-	$.fn.sameHeight = function(options) {
-	  var _ = this;
-	  
+  $.fn.sameHeight = function(options) {
+    var _ = this;
+
     // Default options.
     var options = $.extend( {
       'window-min-width' : 0
