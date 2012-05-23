@@ -6,7 +6,7 @@
  *
  * Copyright (c) 2012 Zach Inglis (@zachinglis)
  *
- * Usage: $(object).equalsizes();
+ * Usage: $(object).matchHeight();
  * 
  */
 
