@@ -47,7 +47,7 @@
 
     $(window).bind('resize', function () {
       _.matchHeight(options);
-    })
+    });
 
     return this;
   }
